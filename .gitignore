@@ -1,0 +1,16 @@
+# Maven
+target/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.project
+.classpath
+.settings/
+
+# Docker
+*.env
